@@ -10,7 +10,7 @@ import image3 from "../assets/images/umiam-lake.webp";
 import image4 from "../assets/images/Mawlynnong-The-cleanest-city-in-Asia-soulveda.webp";
 import image5 from "../assets/images/Laitlum_Canyons.webp";
 import MostSellingPackage from "../components/MostSellingPackages";
-import MostVisitedDestinations from "../components/MOstVisitedDestinations";
+import MostVisitedDestinations from "../components/MostVisitedDestinations";
 import OurServices from "../components/Services";
 import FounderAndAwardsSection from "../components/FounderAndAwardsSection";
 import PremiumCustomer from "../components/PremiumCustomer";
